@@ -1,11 +1,11 @@
-# Front Administrador
+# Front Adm
 
 Una aplicación web construida con Next. **TypeScript**, que muestra la gestión y visualización de cursos.
 
 ## 🔧 Clonar el repositorio
 
 1. Haz clic en **Code** y copia la URL:
-
+ 
    ```bash
    https://github.com/SumajCode/Front-Admin.git # copiar
    ```
@@ -112,3 +112,4 @@ front-docente/
 3. Escribir hooks/funciones: en `src/hooks` o `src/lib` según su alcance.
 4. Gestionar datos: Centraliza tipos en `src/types/` y constantes en `src/constants/`.
 ```
+
