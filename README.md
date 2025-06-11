@@ -1,4 +1,4 @@
-# Front Adm
+# Front Administrador
 
 Una aplicación web construida con Next. **TypeScript**, que muestra la gestión y visualización de cursos.
 
